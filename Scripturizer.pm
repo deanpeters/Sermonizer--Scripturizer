@@ -2,7 +2,7 @@ package Sermonizer::Scripturizer;
 #############################################################
 # Sermonizer::Scripturizer                                  #
 # Copyright 2002-2012                                       #
-#      Dean Peters    http://www.healyourchurchwebsite.com #
+#      Dean Peters     http://www.healyourchurchwebsite.com #
 #                                                           #
 # Additional Credits:                                       #
 #      Jonathan Fox                                         #
